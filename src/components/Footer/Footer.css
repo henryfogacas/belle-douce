@@ -1,0 +1,17 @@
+.footer {
+    padding-top: 24px;
+    padding-bottom: 16px;
+    text-align: center;
+    background-color: #EC6091;
+}
+
+.logo  {
+    padding-top: 16px;
+    max-width: 10%;
+    height: auto;
+}
+
+.footer h3 {
+    color: #FFF;
+    font-weight: 550;
+}

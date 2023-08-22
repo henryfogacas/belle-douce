@@ -1,0 +1,23 @@
+.brownies {
+    background-color: #EC6091;
+    color: white;
+    width: 280px;
+    border-radius: 32px;
+    text-align: center;
+    padding: 36px;
+}
+
+.img-brownie img {
+    max-width: 100%;
+    border-radius: 16px;
+    height: auto;
+}
+
+.name h4 {
+    font-style: italic;
+    font-weight: 600;
+}
+
+.price h4 {
+    font-weight: 900;
+}
